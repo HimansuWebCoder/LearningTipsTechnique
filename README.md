@@ -43,3 +43,41 @@
 		2. Build In Increments
 		3. Backtracking
 		4. Staying Focused
+
+# 4 Tips To Keep Your Tech Skills Up To Date
+  tip 1- Stay up to date with news and updates related to tools you use
+  
+  tip 2- Stay on top of broader industry information
+
+  tip 3- Continue to improve your current skills and add new ones
+
+  tip 4- Collaborate and communicate
+
+  Now it's your turn. Take actions now and improve your skills!
+
+  # The 8 main reasons why people fail to hit their goals
+
+  Reason 1- Vague Goals
+  Reason 2- Lack of accountability
+  Reason 3- No path to success
+  Reason 4- A lack of focus
+  Reason 5- Setting the wrong goals
+  Reason 6- Relying on motivation alone
+  Reason 7-Mental roadblocks
+  Reason 8- Unhappy with your progress
+
+  Get started on achieving your New Year's goals(or any goals) today!
+
+
+  # Top 7 Soft Skills For Developers & How To Learn Them
+
+  1. Communication
+  2. Teamwork
+  3. Problem Solving
+  4. Time Management
+  5. Coachability
+  6. Emotional Intelligence
+
+
+
+  
