@@ -261,6 +261,214 @@
 179. Collaborative Software Design - How to Facilitate Domain Modeling Decisions
 180.  Laws of UX: Using Psychology to Design Better Products
 
+# Non-Technical Books Mixing (Communication, Business, Leadership, Spiritual, Yoga, English, Self-Help etc...)
+
+1. The Power Of Now
+    2. The Alchemist
+    3. Dopamine Detox
+    4. Ikigai
+    5. Hooked
+    6. Unscripted - Life, Liberty, and the Pursuit of Entrepreneurship
+    7. The Power of you subconscious mind
+    8. The One Thing
+    9. The Art of Public Speaking
+    10. Atomic Habits
+    11. The Power of Habits
+    12. The Power of Focus
+    13. Positive Thinking Napolean Hill
+    14. You Can Win
+    15. The Almanack of Naval Ravikant
+    16. The 100$ Startup
+    17. The 4 Hour Work Week
+    18. The 10X Rule
+    19. Money Master the Game 
+    20. Time Man- Brian Tracy
+    21. The Monk who sold his Ferrari
+    22. Nikola Tesla
+    23. Conversional American English
+    24. How to step outside your comfort zone
+    25. Getting a Coding Job (dummies)
+    26. Everything is Fucked
+    27. A leadership skills lessons from Lord Krishna
+    28. Freelancing (dummies)
+    29. Mindset
+    30. Zigler on selling
+    31. So Good They Can't ignore you
+    32. The Psychology Of selling
+    33. Top Performance Zig Zigler
+    34. Mastery - Robert Greene
+    35. CeliBeyond Good & Evil 
+    36. The Art of Closing the Sale - Brian Tracy
+    37. Essentialism
+    38. Hyper Focus
+    39. The 1 page marketing plan
+    40. You Can Achieve More - Shiv Khera
+    41. Thinking Fast and Slow
+    42. Goals - Brian Tracy
+    43. Creativity & Problem Solving - Brian Tracy
+    44. Hiring & Firing - Brian Tracy
+    45. The E-Myth Revisited
+    46. Business Strategy - Brian Tracy
+    47. Marketing - Brian Tracy 
+    48. Leadership - Brian Tracy
+    49. Million Dollar Habits - Brian Tracy 
+    50. Personal Success - Brian Tracy 
+    51. Motivation - Brian Tracy
+    52. Negotiation - Brian Tracy
+    53. Sales Success - Brian Tracy 
+    54. Selling 101 - Zig Zigler 
+    55. Peaks & Valleys 
+    56. Samajh Se Prapt Brahmacharya 
+    57. The Greatest Salesman in the World 
+    58. The Ultimate Sales Machine 
+    59. How to Sell Anything to Anybody 
+    60. To Sell is Human
+    61. Don't Sell Make Them Buy
+    62. Focus on what matters by Darius 
+    63. Flow: The Psychology of Optimal Experience 
+    64. Outliers 
+    65. DIP by Seth Godin
+    66. Smartcuts 
+    67. Emergency : This book will save your Life
+    68. The 4 Hour Chef 
+    69. The Art Of Learning 
+    70. Moonwalking with Einstein
+    71. One Small Step Can change your life 
+    72. Unlimited Memory 
+    73. Make it Stick 
+    74. How the Mind works 
+    75. The first 20 hours : How to learn Anything 
+    76. UltraLearning: Accelerate Your Career 
+    77. DRIVE by Daniel 
+    78. How to Fail at Almost Everything & Still win 
+    79. Eat That Frog 
+    80. The 4 Hour Week 
+    81. Learning How to Learn 
+    82. AntiFragile 
+    83. Peak: Secrets From New Science of Expertise 
+    84. Why We Sleep - Matthew 
+    85. The Art Of Being Alone 
+    86. Attitude is Everything
+    87. Start Wit2 Why 
+    89. The 5 AM 3lub 
+    90. Meditatio4 & Its Method - Swami Vivekananda 
+    91. The Compl5te Book Of Yoga 
+    92. Rajyoga -6Swami Vivekananda 
+    93. This is M7rketing - Seth Godin 
+    94. The Compound Effect
+    95. The 7 Habits of Highly Effective Teenager
+    96. The 7 Habits of Highly Effective People 
+    97. World's Greatest Entrepreneurs
+    98. Before you Startup 
+    99. Brahmacharya Yoga 
+    100. Brahmacharya Sadhana 
+    101. Celibacy & Sexual Integrate 
+    102. Celibacy is LIfe 
+    103. Boss - Basis of Sanatan Sanskrit
+    104. MPF - Sandhya, Sandhy Gayatri 
+    105. Vaidik Dincharya 
+    106. Brahmacharya The Ultimate Action book
+    107. The 7 Habits of Highly Effective Families 
+    108. The Secret + The Magic 
+    109. The Role of Celibacy in the Spiritual Life - Divine Life Society
+    110. Stoic Philosophy bundle 
+    111. Ashtanga Hridayam 
+    112. The Hard Thing About Hard Thing 
+    113. Rework 
+    114. How to talk to anyone 
+    115. The Obstacle is the way 
+    116. The Best of Dale Carnegie (set of 5 book)
+    117. The Wealth Money Can't buy 
+    118. Land the Tech Job you Love (Pragmatic Life) - Andy
+    119. Limitless - Jim Kwik 
+    120. The Personal MBA
+    121. Building a Career in Software - Daniel Heller 
+    122. Dark Money - Jane Mayer 
+    123. Miracle Of Vedic Tricks 
+    124. Courage to be Disliked
+    125. The 48 Laws of Power 
+    126. Freedom is not Free 
+    127. The Laws of Success
+    128. The Psychology of Money 
+    129. Rich Dad Poor Dad 
+    130. Habits of a Happy Brain 
+    131. Jeet Apki 
+    132. 11 Rules of Life 
+    133. Running Great Meeting & Workshop (Dummies)
+    134. International Marketing 
+    135. Business Skills (Dummies)
+    136. Design Thinking (Dummies)    
+    137. Think Like An Artist
+    138. Steal Like An Artist 
+    139. Training Your Brain 
+    140. Will Power (Dummies)
+    141. Personal Branding (Dummies) 
+    142. Improving Your Memory (Dummies)
+    143. Networking All In One (Dummies)
+    144. People Analytics (Dummies)
+    145. Social Media Marketin- Brian Tracyg (Dummies)
+    146. Marketing Management - Philip Kotl- Brian Tracy
+    147. Decision Intelligence (Dummies)
+    148. Customer Experience (Dummies)
+    149. Soft Skills (Dummies)
+    150. Crical Conversations (Dummies)
+    151. How to Read A Book 
+    152. Cashflow Quadrant 
+    153. See You At The Top 
+    154. The 80/20 Principle 
+    155. How to get from where you are to where you want to be - Jack Canfield
+    156. My Inventions: Auto Biography of Nikola Tesla
+    157. Sambhog Se Samadhi 
+    158. Chicken Soup for Soul All Series 
+    159. Cambridge International Dicitionary 
+    160. Rapidex Enrich Your Word Power 
+    161. Money Master the Game
+    162. Beyond Good & Evil 
+    163. 7 Strategies for Wealth & Happiness 
+    164.Unshakeable 
+    165. Hints for Self Culture 
+    166. How to get What You Want 
+    167. The Miracles of Right Thoughts 
+    168. Charaka Samhita 
+    169. Word Power Made Easy 
+    170. Susruta Samhita 
+    171. Chicken Soup For the Soul : Get out of your comfort zone 
+    172. Brahmacharya : Road to Ultimate Knowledge by Swami Vivekananda
+    173. Modern Biological Theory & Experiments on Celibacy - Jatin Shankar 
+    174. The Sarcred Journey within : Power of Celibacy 
+    175. Semen Retention Miracle 
+    176. Kundalini Tantra - Swami Satyananda 
+    177. Prana & Pranayama - Swami Satyananda
+    178. Yoga Chakra & the seven foundation 
+    179. Yoga Publication Trust Yoga Nidra 
+    180. Asana Pranayama Mudra Bandha 
+    181. Patanjali Yoga Sutras 
+    182. Rajiv Dixit Ji Swadeshi Chikhista 
+    183. Master Your Time, Master your Life - Brian Tracy 
+    184. Take Charge of Your Life - Brian Tracy 
+    185. Get Smart - Brian Tracy
+    186. Time Management  - Brian Tracy
+    187. Unstoppable - Brian Tracy
+    188. Delegation & Supervision - Brian Tracy
+    189. Meeting That Get Results - Brian Tracy
+    190. Maximum Achievement - Brian Tracy
+    191. Leadership - Brian Tracy 
+    192. Get it done now - Brian Tracy
+    193. The 10 Qualities of Influential People - Brian Tracy
+    194. Focal Point - Brian Tracy
+    195. How to Best Leaders Lead - Brian Tracy
+    196. Sales Management - Brian Tracy  
+    197. The First Minute - Chris 
+    198. How to Become a People Magnet 
+    199. The Communication Book - Mikael 
+    200. The Fine Art Of Small Talk 
+    201. What Every Body is Saying  
+    202. How to Win Friends and Influence People
+    203. Think and Grow Rich 
+    204. As a Man Thinketh
+    205. Talk like Ted 
+    206. The Art of Publice Speaking 
+    207. The Quick & Easy Way to Effective Speaking - Dale Carnegie 
 
 
 
