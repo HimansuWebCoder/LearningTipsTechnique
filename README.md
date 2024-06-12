@@ -276,6 +276,7 @@
 194. Training & Development
 195. Computer Graphics from Scratch
 196. The Art Of WebAssembly
+197. SuperIntelligence - Paths, Dangers, Strategies
 
 # Non-Technical Books Mixing (Communication, Business, Leadership, Spiritual, Yoga, English, Self-Help etc...)
 
@@ -487,3 +488,5 @@
 207. The Quick & Easy Way to Effective Speaking - Dale Carnegie
 208. Learn Like A Pro
 209. Mastery - George Leonard
+210. The Laws of Human Nature
+
