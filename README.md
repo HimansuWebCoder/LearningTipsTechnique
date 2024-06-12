@@ -274,6 +274,8 @@
 192. Coding for Kids (Dummies)
 193. Android Development All In One (Dummies)
 194. Training & Development
+195. Computer Graphics from Scratch
+196. The Art Of WebAssembly
 
 # Non-Technical Books Mixing (Communication, Business, Leadership, Spiritual, Yoga, English, Self-Help etc...)
 
@@ -483,4 +485,5 @@
 205. Talk like Ted 
 206. The Art of Publice Speaking 
 207. The Quick & Easy Way to Effective Speaking - Dale Carnegie
-
+208. Learn Like A Pro
+209. Mastery - George Leonard
