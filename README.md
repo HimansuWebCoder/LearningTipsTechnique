@@ -80,186 +80,186 @@
 
 # Software Engineering Technical Books
 
-// The Creativity Code: Art and Innovation in the Age of AI
-// The Healthy Programmer: Get Fit, Feel Better, and Keep Coding
-// The Creative Programmer
-// Computer Coding for Kids:
-// Coding for Beginners: Using Scratch
-// Introduction to Coding - Scratch Your Brain and Crack the codes Activities for Kids Age 5+
-// Skills of a Successful Software Engineer
-// Good Code, Bad Code: Think like a software engineer
-// The Programmer's Brain: What every programmer needs to know about cognition
-// The Art of UNIX Programming
-// Learning Javascript Design Patterns
-// Street Coder: The rules to break and how to break them
-// Coders : by Clive Thompson
-// Peopleware Productive Projects and Teams
-// The Ultimate Docker Container Book
-// Extreme Teams: Why Pixar, Netflix, Airbnb and Other Cutting-Edge Companies Succeed Where Most Fail
-// Computer Science Distilled
-// 97 Things Every Programmer Should Know
-// The Passionate Programmer: Creating a Remarkable Career
-// Ubuntu Linux Bible
-// Software Architecture: The Hard Parts - Modern Trade-Off
-// Head First Design Patterns
-// Let us C
-// Efficient Linux at the Command line:
-// You Don't Know Js: 6 volume Set
-// Responsive Web Design with HTML5 & CSS
-// Skills in Mathematics - Play with Graphs for JEE Main
-// Javascript The Definitive Guide
-// React Key Concepts
-// Designing Data-Intensive Applications
-// 50 Algorithms Every Programmer Should Know
-// Soft Skills: The Software Developer's life manual
-// Hands-On C++ Game Animation Programming
-// Software Architecture for Web Developers
-// Computer Programming for Absolute Beginners - Learn essential computer science concepts and coding technique to kick-start your programming career
-// A Philosophy of Software Design
-// React and React Native
-// React Hooks
-// React Projects
-// React Design Patterns and Best Practices
-// Prometheus Up & Running: Infrastructure and Application
-// Programming Quantum Computers: Essential Algorithms and Code Samples
-// Clean Code Cookbook
-// Continuous Integration and Delivery
-// Fundamentals of Data Engineering
-// Building Event-Driven Microservices - Leveraging Organizational Data at Scale
-// Designing Distributed Systems
-// Principles of Web API Design
-// The Art Of Clean Code
-// Clean Architecture
-// Software Architect's Handbook
-// Clean Craftsmanship
-// Python Feature Engineering cookbook
-// Fundamentals of Software Architecture - An Engineering Approach
-// Full-Stack React Projects
-// Code That Fits in Your Head - Heuristics for software Engineering
-// Java Application Architecture
-// Node.js Design Patterns
-// Building Microservices - Designing Fine-Grained Systems
-// Introduction to Algorithms
-// Site Reliability Engineering: How Google Runs Production
-// Machine Learning Design Patterns
-// AI and Machine Learning for Coders - A Programmer's Guide to Artificial Interlligence
-// Essential Math for AI - Next-Level Mathematics for Efficient and Successful AI systems
-// Architecting for Scale - How to maintain High Availibility and Manage Risk in the Cloud
-// Building Evolutionary Architures - Automated Software Governance
-// The GO Programming Language
-// Staff Engineer's path: Gide for Individual
-// Head First Git
-// Eloquent Javascript
-// Object-Oriented Python
-// Learning MySql - Get a Handle on Your Data
-// Web Development with Node & Express - Leveraging the Javascript Stack
-// MongoDB The Definitive Guide - Powerful and Scalable Data Storage
-// Advanced Javascript
-// Node.js Web Development
-// React Application Architecture for Production
-// Object-Oriented Javascript
-// React with Typescript
-// Javascript Functional Programming
-// Mastering Typescript - Build Enterprise-ready
-// Javascript from Beginner to Professional
-// Clean Code in Javascript
-// Javascript by Example
-// The Modern C++ Challenge
-// Build Your Own Programming Language
-// Modern Computer Architecture and Organization
-// Linux Bible (Willey)
-// Programming Pearls
-// Devops for the Desperate
-// Algorithmic Thinking
-// Data Structures the fun way
-// How AI Works
-// Introduction to Computer Organization
-// Learn to Code by Solving Problems
-// How Linux Works
-// The Art Of Web Assembly
-// The Art Of Machine Learning
-// The Art Of Debugging With GDB, DDD
-// Clean Code
-// Refactoring
-// Think lika a programmer
-// The Self-Taught Programmer
-// Clean Agile
-// The Software Craftsman
-// The Linux Command Line
-// Software Testing: A Craftsman's Approach
-// Modern Software Engineering
-// Pomodoro Technique Illustrated
-// The Productive Programmer
-// Code Complete 2
-// The Art Of Computer Programming (5 Volume)
-// Software Engineering at Google
-// The Complete Developer: Master the Full-Stack with Typescript, React, Next.js
-// The Pragmatic Programmer
-// Cracking the Coding Interview
-// Operating Systems Concepts
-// Computer Networking
-// Clean Coder
-// Head First Javascript Programming
-// Effective Typescript
-// Head First Object-Oriented Analysis & Design
-// Head First Swift
-// Head First C
-// Head First Design Patterns
-// Typescript CookBook
-// Real World Next.js
-// Accelerate
-// Domain Driven Design
-// Head First Programming - A learner's Guide to Programming
-// Head First Python
-// Head First Learn to Code
-// Head First Java
-// Head First Software Architecture
-// Head First Object-Oriented Analysis & Design
-// Head First Swift
-// Head First C
-// Head First Kotlin
-// Head First HTML5 Programming
-// Head First HTML & CSS
-// Head First GO
-// Head First Agile
-// Head First Software Development
-// Head First Android Development
-// Head First Git
-// Head First Github
-// Head First Ruby
-// Head First Networking
-// Head First Web Design
-// Patterns of Enterprise Application Architecture
-// Networking Fundamentals
-// The Software Engineer's path
-// Grokking Algorithm
-// Data Structures & Algorithm made easy
-// Data Structures & Algorithm made easy by Narashimha
-// The C Programming Language
-// Let us C++
-// Programming in Ansi C
-// Jumping into C++
-// Practical C++ Programming
-// Effective C++: 55 Specific Ways to Improve your Programms & Designs
-// More Effective C++
-// The C++ Programming Language
-// Working Effectively with Legacy Code
-// Code: The Hidden language of Computer Hardware & Software
-// Don't make me think,Revisited
-// Structure & Interpretation of Computer Programs
-// Think Python: How to Think like a Computer Scientist (2024)
-// The Effective Engineer
-// High Outputs Management
-// Influence: Science & Practice
-// Rapid Development: Taming
-// Managing Humans
-// The Manager Path
-// The One Minute Manager
-// Radical Candor
-// Effective Software Testing - A Developers' Guide
-// Software Mistakes & TradeOffs - How to make Good Programming Decisions
-// Collaborative Software Design - How to Facilitate Domain Modeling Decisions
-//  Laws of UX: Using Psychology to Design Better Products
+1. The Creativity Code: Art and Innovation in the Age of AI
+2. The Healthy Programmer: Get Fit, Feel Better, and Keep Coding
+3. The Creative Programmer
+4. Computer Coding for Kids:
+5. Coding for Beginners: Using Scratch
+6. Introduction to Coding - Scratch Your Brain and Crack the codes Activities for Kids Age 5+
+7. Skills of a Successful Software Engineer
+8. Good Code, Bad Code: Think like a software engineer
+9. The Programmer's Brain: What every programmer needs to know about cognition
+10. The Art of UNIX Programming
+11. Learning Javascript Design Patterns
+12. Street Coder: The rules to break and how to break them
+13. Coders : by Clive Thompson
+14. Peopleware Productive Projects and Teams
+15. The Ultimate Docker Container Book
+16. Extreme Teams: Why Pixar, Netflix, Airbnb and Other Cutting-Edge Companies Succeed Where Most Fail
+17. Computer Science Distilled
+18. 97 Things Every Programmer Should Know
+19. The Passionate Programmer: Creating a Remarkable Career
+20. Ubuntu Linux Bible
+21. Software Architecture: The Hard Parts - Modern Trade-Off
+22. Head First Design Patterns
+23. Let us C
+24. Efficient Linux at the Command line:
+25. You Don't Know Js: 6 volume Set
+26. Responsive Web Design with HTML5 & CSS
+27. Skills in Mathematics - Play with Graphs for JEE Main
+28. Javascript The Definitive Guide
+29. React Key Concepts
+30. Designing Data-Intensive Applications
+31. 50 Algorithms Every Programmer Should Know
+32. Soft Skills: The Software Developer's life manual
+33. Hands-On C++ Game Animation Programming
+34. Software Architecture for Web Developers
+35. Computer Programming for Absolute Beginners - Learn essential computer science concepts and coding technique to kick-start your programming career
+36. A Philosophy of Software Design
+37. React and React Native
+38. React Hooks
+39. React Projects
+40. React Design Patterns and Best Practices
+41. Prometheus Up & Running: Infrastructure and Application
+42. Programming Quantum Computers: Essential Algorithms and Code Samples
+43. Clean Code Cookbook
+44. Continuous Integration and Delivery
+45. Fundamentals of Data Engineering
+46. Building Event-Driven Microservices - Leveraging Organizational Data at Scale
+47. Designing Distributed Systems
+48. Principles of Web API Design
+49. The Art Of Clean Code
+50. Clean Architecture
+51. Software Architect's Handbook
+52. Clean Craftsmanship
+53. Python Feature Engineering cookbook
+54. Fundamentals of Software Architecture - An Engineering Approach
+55. Full-Stack React Projects
+56. Code That Fits in Your Head - Heuristics for software Engineering
+57. Java Application Architecture
+58. Node.js Design Patterns
+59. Building Microservices - Designing Fine-Grained Systems
+60. Introduction to Algorithms
+61. Site Reliability Engineering: How Google Runs Production
+62. Machine Learning Design Patterns
+63. AI and Machine Learning for Coders - A Programmer's Guide to Artificial Interlligence
+64. Essential Math for AI - Next-Level Mathematics for Efficient and Successful AI systems
+65. Architecting for Scale - How to maintain High Availibility and Manage Risk in the Cloud
+66. Building Evolutionary Architures - Automated Software Governance
+67. The GO Programming Language
+68. Staff Engineer's path: Gide for Individual
+69. Head First Git
+70. Eloquent Javascript
+71. Object-Oriented Python
+72. Learning MySql - Get a Handle on Your Data
+73. Web Development with Node & Express - Leveraging the Javascript Stack
+74. MongoDB The Definitive Guide - Powerful and Scalable Data Storage
+75. Advanced Javascript
+76. Node.js Web Development
+77. React Application Architecture for Production
+78. Object-Oriented Javascript
+79. React with Typescript
+80. Javascript Functional Programming
+81. Mastering Typescript - Build Enterprise-ready
+82. Javascript from Beginner to Professional
+83. Clean Code in Javascript
+84. Javascript by Example
+85. The Modern C++ Challenge
+86. Build Your Own Programming Language
+87. Modern Computer Architecture and Organization
+88. Linux Bible (Willey)
+89. Programming Pearls
+90. Devops for the Desperate
+91. Algorithmic Thinking
+92. Data Structures the fun way
+93. How AI Works
+94. Introduction to Computer Organization
+95. Learn to Code by Solving Problems
+96. How Linux Works
+97. The Art Of Web Assembly
+98. The Art Of Machine Learning
+99. The Art Of Debugging With GDB, DDD
+100. Clean Code
+101. Refactoring
+102. Think lika a programmer
+103. The Self-Taught Programmer
+104. Clean Agile
+105. The Software Craftsman
+106. The Linux Command Line
+107. Software Testing: A Craftsman's Approach
+108. Modern Software Engineering
+109. Pomodoro Technique Illustrated
+110. The Productive Programmer
+111. Code Complete 2
+112. The Art Of Computer Programming (5 Volume)
+113. Software Engineering at Google
+114. The Complete Developer: Master the Full-Stack with Typescript, React, Next.js
+115. The Pragmatic Programmer
+116. Cracking the Coding Interview
+117. Operating Systems Concepts
+118. Computer Networking
+119. Clean Coder
+120. Head First Javascript Programming
+121. Effective Typescript
+122. Head First Object-Oriented Analysis & Design
+123. Head First Swift
+124. Head First C
+125. Head First Design Patterns
+126. Typescript CookBook
+127. Real World Next.js
+128. Accelerate
+129. Domain Driven Design
+130. Head First Programming - A learner's Guide to Programming
+131. Head First Python
+132. Head First Learn to Code
+133. Head First Java
+134. Head First Software Architecture
+135. Head First Object-Oriented Analysis & Design
+136. Head First Swift
+137. Head First C
+138. Head First Kotlin
+139. Head First HTML5 Programming
+140. Head First HTML & CSS
+141. Head First GO
+142. Head First Agile
+143. Head First Software Development
+144. Head First Android Development
+145. Head First Git
+146. Head First Github
+147. Head First Ruby
+148. Head First Networking
+149. Head First Web Design
+150. Patterns of Enterprise Application Architecture
+151. Networking Fundamentals
+152. The Software Engineer's path
+153. Grokking Algorithm
+154. Data Structures & Algorithm made easy
+155. Data Structures & Algorithm made easy by Narashimha
+156. The C Programming Language
+157. Let us C++
+158. Programming in Ansi C
+159. Jumping into C++
+160. Practical C++ Programming
+161. Effective C++: 55 Specific Ways to Improve your Programms & Designs
+162. More Effective C++
+163. The C++ Programming Language
+164. Working Effectively with Legacy Code
+165. Code: The Hidden language of Computer Hardware & Software
+166. Don't make me think,Revisited
+167. Structure & Interpretation of Computer Programs
+168. Think Python: How to Think like a Computer Scientist (2024)
+169. The Effective Engineer
+170. High Outputs Management
+171. Influence: Science & Practice
+172. Rapid Development: Taming
+173. Managing Humans
+174. The Manager Path
+175. The One Minute Manager
+176. Radical Candor
+177. Effective Software Testing - A Developers' Guide
+178. Software Mistakes & TradeOffs - How to make Good Programming Decisions
+179. Collaborative Software Design - How to Facilitate Domain Modeling Decisions
+180.  Laws of UX: Using Psychology to Design Better Products
 
 
 
